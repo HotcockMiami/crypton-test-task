@@ -1,0 +1,4 @@
+/crypton_venv
+/google_scraper/__pycache__
+/google_scraper/spiders/__pycache__
+/.vscode
